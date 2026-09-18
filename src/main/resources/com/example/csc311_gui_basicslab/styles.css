@@ -1,0 +1,30 @@
+#rootBox {
+    -fx-background-color: green;
+}
+
+
+.nameLabel {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+    -fx-rotate: 15;
+    -fx-background-color: yellow;
+}
+
+.myNameLabel {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+    -fx-rotate: -15;
+    -fx-background-color: yellow;
+}
+
+.rockButton {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+    -fx-rotate: -15;
+    -fx-background-color: brown;
+}
+
+
